@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\bin\Debug\net6.0\replace.exe
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\bin\Debug\net6.0\replace.deps.json
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\bin\Debug\net6.0\replace.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\bin\Debug\net6.0\replace.dll
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\bin\Debug\net6.0\replace.pdb
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.dll
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\refint\replace.dll
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.pdb
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\replace.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\replace\replace\obj\Debug\net6.0\ref\replace.dll
