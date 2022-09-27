@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.exe
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.deps.json
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.dll
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\bin\Debug\net6.0\Arraycopy.pdb
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.dll
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\refint\Arraycopy.dll
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.pdb
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\Arraycopy.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\Arraycopy\Arraycopy\obj\Debug\net6.0\ref\Arraycopy.dll
