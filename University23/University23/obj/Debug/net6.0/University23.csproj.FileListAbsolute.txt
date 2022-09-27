@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\bin\Debug\net6.0\University23.exe
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\bin\Debug\net6.0\University23.deps.json
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\bin\Debug\net6.0\University23.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\bin\Debug\net6.0\University23.dll
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\bin\Debug\net6.0\University23.pdb
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.dll
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\refint\University23.dll
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.pdb
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\University23.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\University23\University23\obj\Debug\net6.0\ref\University23.dll
