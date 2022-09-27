@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\bin\Debug\net6.0\stringreverse.exe
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\bin\Debug\net6.0\stringreverse.deps.json
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\bin\Debug\net6.0\stringreverse.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\bin\Debug\net6.0\stringreverse.dll
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\bin\Debug\net6.0\stringreverse.pdb
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.dll
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\refint\stringreverse.dll
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.pdb
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\stringreverse.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\stringreverse\stringreverse\obj\Debug\net6.0\ref\stringreverse.dll
