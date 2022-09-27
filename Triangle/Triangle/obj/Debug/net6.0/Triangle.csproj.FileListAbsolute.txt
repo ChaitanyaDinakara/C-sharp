@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.exe
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.deps.json
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.dll
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\bin\Debug\net6.0\Triangle.pdb
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.dll
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\refint\Triangle.dll
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.pdb
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\Triangle.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\Triangle\Triangle\obj\Debug\net6.0\ref\Triangle.dll
