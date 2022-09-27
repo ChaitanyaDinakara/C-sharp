@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\bin\Debug\net6.0\mergearray.exe
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\bin\Debug\net6.0\mergearray.deps.json
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\bin\Debug\net6.0\mergearray.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\bin\Debug\net6.0\mergearray.dll
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\bin\Debug\net6.0\mergearray.pdb
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.dll
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\refint\mergearray.dll
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.pdb
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\mergearray.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\mergearray\mergearray\obj\Debug\net6.0\ref\mergearray.dll
