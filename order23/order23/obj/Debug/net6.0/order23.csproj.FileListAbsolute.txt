@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\bin\Debug\net6.0\order23.exe
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\bin\Debug\net6.0\order23.deps.json
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\bin\Debug\net6.0\order23.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\bin\Debug\net6.0\order23.dll
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\bin\Debug\net6.0\order23.pdb
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.dll
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\refint\order23.dll
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.pdb
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\order23.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\order23\order23\obj\Debug\net6.0\ref\order23.dll
