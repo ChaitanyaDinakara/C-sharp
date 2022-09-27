@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\bin\Debug\net6.0\evenodd22.exe
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\bin\Debug\net6.0\evenodd22.deps.json
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\bin\Debug\net6.0\evenodd22.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\bin\Debug\net6.0\evenodd22.dll
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\bin\Debug\net6.0\evenodd22.pdb
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.dll
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\refint\evenodd22.dll
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.pdb
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\evenodd22.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\evenodd22\evenodd22\obj\Debug\net6.0\ref\evenodd22.dll
