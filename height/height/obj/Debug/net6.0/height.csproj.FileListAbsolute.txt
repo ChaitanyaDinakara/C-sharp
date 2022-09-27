@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\height\height\bin\Debug\net6.0\height.exe
+C:\Users\chaitanya.dinakara\source\repos\height\height\bin\Debug\net6.0\height.deps.json
+C:\Users\chaitanya.dinakara\source\repos\height\height\bin\Debug\net6.0\height.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\height\height\bin\Debug\net6.0\height.dll
+C:\Users\chaitanya.dinakara\source\repos\height\height\bin\Debug\net6.0\height.pdb
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.dll
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\refint\height.dll
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.pdb
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\height.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\height\height\obj\Debug\net6.0\ref\height.dll
