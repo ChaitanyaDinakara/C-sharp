@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\bin\Debug\net6.0\exception23.exe
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\bin\Debug\net6.0\exception23.deps.json
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\bin\Debug\net6.0\exception23.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\bin\Debug\net6.0\exception23.dll
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\bin\Debug\net6.0\exception23.pdb
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.dll
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\refint\exception23.dll
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.pdb
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\exception23.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\exception23\exception23\obj\Debug\net6.0\ref\exception23.dll
