@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\bin\Debug\net6.0\Genericclass26.exe
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\bin\Debug\net6.0\Genericclass26.deps.json
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\bin\Debug\net6.0\Genericclass26.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\bin\Debug\net6.0\Genericclass26.dll
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\bin\Debug\net6.0\Genericclass26.pdb
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.dll
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\refint\Genericclass26.dll
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.pdb
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\Genericclass26.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\Genericclass26\Genericclass26\obj\Debug\net6.0\ref\Genericclass26.dll
