@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\bin\Debug\net6.0\eligiblity.exe
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\bin\Debug\net6.0\eligiblity.deps.json
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\bin\Debug\net6.0\eligiblity.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\bin\Debug\net6.0\eligiblity.dll
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\bin\Debug\net6.0\eligiblity.pdb
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.dll
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\refint\eligiblity.dll
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.pdb
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\eligiblity.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\eligiblity\eligiblity\obj\Debug\net6.0\ref\eligiblity.dll
