@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\bin\Debug\net6.0\evenoddarray.exe
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\bin\Debug\net6.0\evenoddarray.deps.json
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\bin\Debug\net6.0\evenoddarray.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\bin\Debug\net6.0\evenoddarray.dll
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\bin\Debug\net6.0\evenoddarray.pdb
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.dll
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\refint\evenoddarray.dll
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.pdb
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\evenoddarray.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\evenoddarray\evenoddarray\obj\Debug\net6.0\ref\evenoddarray.dll
