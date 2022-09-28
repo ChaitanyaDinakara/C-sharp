@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\bin\Debug\net6.0\anonyprime28.exe
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\bin\Debug\net6.0\anonyprime28.deps.json
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\bin\Debug\net6.0\anonyprime28.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\bin\Debug\net6.0\anonyprime28.dll
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\bin\Debug\net6.0\anonyprime28.pdb
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.dll
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\refint\anonyprime28.dll
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.pdb
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\anonyprime28.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\anonyprime28\anonyprime28\obj\Debug\net6.0\ref\anonyprime28.dll
